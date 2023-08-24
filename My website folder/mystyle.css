@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    text-align: center;
+    
+  }
+  
+  .image {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align:Left;
+    color:white;
+    background:url( body.png);
+    background-repeat: no-repeat;
+   background-size: 100% 100%;
+   border:100px;
+  
+  }
+  .contactform{
+    text-align:center;
+    color:black;
+  }
+  .myphoto{
+  float: right;
+  width:120px;
+  
+  }
+  p
+  {
+    text-indent: 50px;
+  }
+  
+ß  
